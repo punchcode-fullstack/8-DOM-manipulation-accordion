@@ -21,7 +21,7 @@ After completing this assignment, you be able to effectively use
 - Each paragraph in each section of the accordion should be a different length. It's important to learn how to deal with variable content length.
 - Use the image below as an example
 
-![jQuery Accordion](accordian.gif 'Accordion')
+![Accordion](accordian.gif 'Accordion')
 
 ## Requirements
 
@@ -31,10 +31,14 @@ After completing this assignment, you be able to effectively use
   - `main.js`
   - `Readme.md` filled out.
 
+## Note: oftentimes you will see examples of DOM manipulation using a library called jquery - typing vanilla with your google searches will help. Here's also a link of analogues in js
+
+http://youmightnotneedjquery.com/
+
 ## Hard Mode
 
 - Build a image carousel that will continue to show the images.
 - You must use [this file](https://github.com/Rylee9951/carousel.js/blob/master/carousel.js) to put the content on the page.
 - Use the image below as an example
 
-![jQuery Carousel](https://github.com/tiy-lv-frontend-2015-10/Assignment-10/raw/master/assets/carousel.gif 'Carousel')
+![Carousel](https://github.com/tiy-lv-frontend-2015-10/Assignment-10/raw/master/assets/carousel.gif 'Carousel')
